@@ -1,10 +1,11 @@
 import random
-# TODO: Import the virus clase
+# import Virus
+# TODO: Import the virus class
 
 class Person(object):
     '''
     Person objects will populate the simulation.
-    _____Attributes______:
+    _____Attributes_____:
     _id: Int.  A unique ID assigned to each person.
     is_vaccinated: Bool.  Determines whether the person object is vaccinated against
         the disease in the simulation.
@@ -32,14 +33,14 @@ class Person(object):
             - If random number is larger, person has survived disease.  Person's
             is_vaccinated attribute is changed to True, and set self.infection to None.
     '''
-
+    person1 = Person(0 , True, Virus)
     def __init__(self, _id, is_vaccinated, infection=None):
         # TODO:  Finish this method.  Follow the instructions in the class documentation
         # to set the corret values for the following attributes.
-        self._id = None
-        self.is_vaccinated = None
-        self.is_alive = None
-        self.infection = None
+        self._id = _id
+        self.is_vaccinated = is_vaccinated
+        self.is_alive = True
+        self.infection = infection #virus object
 
 
     def did_survive_infection():
