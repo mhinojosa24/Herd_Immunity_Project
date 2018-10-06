@@ -33,7 +33,8 @@ class Person(object):
             - If random number is larger, person has survived disease.  Person's
             is_vaccinated attribute is changed to True, and set self.infection to None.
     '''
-    person1 = Person(0 , True, Virus)
+
+
     def __init__(self, _id, is_vaccinated, infection=None):
         # TODO:  Finish this method.  Follow the instructions in the class documentation
         # to set the corret values for the following attributes.
@@ -43,8 +44,15 @@ class Person(object):
         self.infection = infection #virus object
 
 
-    def did_survive_infection():
+    def did_survive_infection(self):
         # TODO:  Finish this method. Follow the instructions in the class documentation
         # for resolve_infection.  If person dies, set is_alive to False and return False.
         # If person lives, set is_vaccinated = True, infection = None, return True.
-        pass
+        generator = random.uniform(0, 1)
+        if generator < infection.mortality_rate:
+            self.is_alive = False
+            return False
+        elif generator > infection.mortality_rate:
+            self.is_vaccinated = True
+            self.infection = None
+            return True
