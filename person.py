@@ -1,7 +1,6 @@
 import random
-# import Virus
+from virus import Virus
 # TODO: Import the virus class
-
 class Person(object):
     '''
     Person objects will populate the simulation.
@@ -46,13 +45,16 @@ class Person(object):
 
     def did_survive_infection(self):
         # TODO:  Finish this method. Follow the instructions in the class documentation
-        # for resolve_infection.  If person dies, set is_alive to False and return False.
+        # for did_resolve_infection. If person dies, set is_alive to False and return False.
         # If person lives, set is_vaccinated = True, infection = None, return True.
-        generator = random.uniform(0, 1)
-        if generator < infection.mortality_rate:
+        if self.infection != None:
+            generator = random.uniform(0, 1)
+        if generator < self.infection.mortality_rate:
             self.is_alive = False
+            print('person died')
             return False
-        elif generator > infection.mortality_rate:
+        elif generator > self.infection.mortality_rate:
+            print('person got vaccinated')
             self.is_vaccinated = True
             self.infection = None
             return True
