@@ -51,10 +51,10 @@ class Person(object):
             generator = random.uniform(0, 1)
         if generator < self.infection.mortality_rate:
             self.is_alive = False
-            print('person died')
+            # print('person died')
             return False
         elif generator > self.infection.mortality_rate:
-            print('person got vaccinated')
+            # print('person got vaccinated')
             self.is_vaccinated = True
             self.infection = None
             return True
