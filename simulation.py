@@ -147,7 +147,8 @@ class Simulation(object):
     #     - There are no infected people left in the population.
     # In all other instances, the simulation should continue.
 
-        self.logger.log_file.write("People who survived and did not survived")
+        logger_file = open(self.file_name, 'a')
+        logger_file.write("People who survived and did not survived\n")
         for person in self.population:
             if person.is_alive and person.infection != None:
                 person_did_not_survive = person.did_survive_infection()
@@ -246,18 +247,29 @@ class Simulation(object):
         assert person.is_alive == True
         assert random_person.is_alive == True
 
-        if random_person.is_vaccinated == True:
-            self.logger.log_interaction(person, random_person, did_infect == False, person2_vacc == True,
-            person2_sick == False)
-        elif random_person.infection:
-            self.logger.log_interaction(peson, random_person, did_infect == True, peson2_vacc == False,
-            person2_sick == False)
-        elif random_person.is_alive == True and random_person.is_vaccinated == False:
-            if random.random() < self.basic_repro_num:
-                self.newly_infected.append(random_person._id)
-                self.logger.log_interaction(person, random_person, did_infect = True, person2_vacc = False, person2_sick = False)
-            else:
-                 self.logger.log_interaction(person, random_person, did_infect = False, person2_vacc = False, person2_sick = False)
+        did_infect = False
+        is_random_person_vaccinated = True
+        is_random_person_sick = False
+
+
+        if not random_person.is_vaccinated:
+                    random_number = random.uniform(0,1)
+                    if self.basic_repro_num > random_number:
+                        self.newly_infected.append(random_person._id)
+                        did_infect = True
+                        is_random_person_sick = True
+
+        self.logger.log_interaction(person, random_person, did_infect, random_person.is_vaccinated, is_random_person_sick)
+        # if random_person.is_vaccinated == True:
+        #     self.logger.log_interaction(person, random_person, did_infect = False, person2_vacc == True, person2_sick == False)
+        # elif random_person.infection:
+        #     self.logger.log_interaction(person, random_person, did_infect == True, person2_vacc == False, person2_sick == False)
+        # elif random_person.is_alive == True and random_person.is_vaccinated == False:
+        #     if random.random() < self.basic_repro_num:
+        #         self.newly_infected.append(random_person._id)
+        #         self.logger.log_interaction(person, random_person, did_infect = True, person2_vacc = False, person2_sick = False)
+        #     else:
+        #          self.logger.log_interaction(person, random_person, did_infect = False, person2_vacc = False, person2_sick = False)
         # else:
 
             # random_num = random.uniform(0, 1)
@@ -284,7 +296,7 @@ class Simulation(object):
 
         print(self.newly_infected)
         for person in self.population:
-            if person._id in newly_infected:
+            if person._id in self.newly_infected:
                 person.infection = self.virus
 
 

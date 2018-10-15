@@ -40,7 +40,7 @@ class Logger(object):
                         infected
                     - The total number of dead, including those that died during this time step.
     '''
-    logger = Logger('max.txt')
+    # logger = Logger('max.txt')
     def __init__(self, file_name):
         # TODO:  Finish this initialization method.  The file_name passed should be the
         # full file name of the file that the logs will be written to.
@@ -63,8 +63,7 @@ class Logger(object):
         logger_file.write("population_size: {} \t vaccinated percentage: {} \t virus: {} \t mortality rate: {} \t reproduction number: {}  /n".format(population_size, vacc_percentage, virus_name, mortality_rate, basic_repro_num))
         logger_file.close()
 
-    def log_interaction(self, person1, person2, did_infect=None,
-                        person2_vacc=None, person2_sick=None):
+    def log_interaction(self, person1, person2, did_infect=None, person2_vacc=None, person2_sick=None):
         # TODO: Finish this method.  The Simulation object should use this method to
         # log every interaction a sick individual has during each time step.  This method
         # should accomplish this by using the information from person1 (the infected person),
@@ -79,7 +78,7 @@ class Logger(object):
         logger_file = open(self.file_name, 'a')
         # print if person 1 infected person 2
         if did_infect:
-            logger_file.write("person {} did infect person {}".format(peson1._id, person2._id))
+            logger_file.write("person {} did infect person {}".format(person1._id, person2._id))
         if did_infect == False:
             logger_file.write("person {} failed to infect person {}".format(person1._id, person2._id))
             logger_file.write('Person #{} is now Vaccinated\n'.format(person2._id))
@@ -118,10 +117,10 @@ class Logger(object):
 
 
         if time_step_number == 1:
-            self.logger_file.write('The First Time Step Has Began!\n')
+            logger_file.write('The First Time Step Has Began!\n')
         else:
-            self.logger_file.write("Time Step #{} is about to begin.\n".format(time_step_number))
-        self.logger_file.write("Time Step #{} just ended.\n".format(time_step_number))
+            logger_file.write("Time Step #{} is about to begin.\n".format(time_step_number))
+        logger_file.write("Time Step #{} just ended.\n".format(time_step_number))
 
 
         logger_file.close()
