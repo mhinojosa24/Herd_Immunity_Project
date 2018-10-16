@@ -1,0 +1,833 @@
+person 0	 failed to infect person 91
+Person #91	 is now Vaccinated
+person 0	 failed to infect person 94
+Person #94	 is now Vaccinated
+person 0	 failed to infect person 74
+Person #74	 is now Vaccinated
+person 0	 failed to infect person 94
+Person #94	 is now Vaccinated
+person 0	 failed to infect person 71
+Person #71	 is now Vaccinated
+person 0	 failed to infect person 66
+Person #66	 is now Vaccinated
+person 0	 failed to infect person 48
+Person #48	 is now Vaccinated
+person 0	 failed to infect person 37
+Person #37	 is now Vaccinated
+person 0	 failed to infect person 85
+Person #85	 is now Vaccinated
+person 0	 failed to infect person 83
+Person #83	 is now Vaccinated
+person 0	 failed to infect person 31
+Person #31	 is now Vaccinated
+person 0	 failed to infect person 26
+Person #26	 is now Vaccinated
+person 0	 failed to infect person 34
+Person #34	 is now Vaccinated
+person 0	 failed to infect person 39
+Person #39	 is now Vaccinated
+person 0	 failed to infect person 40
+Person #40	 is now Vaccinated
+person 0	 failed to infect person 74
+Person #74	 is now Vaccinated
+person 0	 did infect person 96
+person 0	 failed to infect person 68
+Person #68	 is now Vaccinated
+person 0	 failed to infect person 96
+Person #96	 is now Vaccinated
+person 0	 failed to infect person 87
+Person #87	 is now Vaccinated
+person 0	 failed to infect person 52
+Person #52	 is now Vaccinated
+person 0	 failed to infect person 90
+Person #90	 is now Vaccinated
+person 0	 failed to infect person 21
+Person #21	 is now Vaccinated
+person 0	 failed to infect person 34
+Person #34	 is now Vaccinated
+person 0	 failed to infect person 88
+Person #88	 is now Vaccinated
+person 0	 failed to infect person 54
+Person #54	 is now Vaccinated
+person 0	 failed to infect person 63
+Person #63	 is now Vaccinated
+person 0	 failed to infect person 34
+Person #34	 is now Vaccinated
+person 0	 failed to infect person 57
+Person #57	 is now Vaccinated
+person 0	 failed to infect person 75
+Person #75	 is now Vaccinated
+person 0	 failed to infect person 40
+Person #40	 is now Vaccinated
+person 0	 failed to infect person 78
+Person #78	 is now Vaccinated
+person 0	 failed to infect person 20
+Person #20	 is now Vaccinated
+person 0	 failed to infect person 53
+Person #53	 is now Vaccinated
+person 0	 failed to infect person 42
+Person #42	 is now Vaccinated
+person 0	 failed to infect person 84
+Person #84	 is now Vaccinated
+person 0	 failed to infect person 33
+Person #33	 is now Vaccinated
+person 0	 failed to infect person 58
+Person #58	 is now Vaccinated
+person 0	 failed to infect person 84
+Person #84	 is now Vaccinated
+person 0	 failed to infect person 97
+Person #97	 is now Vaccinated
+person 0	 failed to infect person 45
+Person #45	 is now Vaccinated
+person 0	 failed to infect person 39
+Person #39	 is now Vaccinated
+person 0	 failed to infect person 67
+Person #67	 is now Vaccinated
+person 0	 failed to infect person 40
+Person #40	 is now Vaccinated
+person 0	 failed to infect person 89
+Person #89	 is now Vaccinated
+person 0	 failed to infect person 87
+Person #87	 is now Vaccinated
+person 0	 failed to infect person 20
+Person #20	 is now Vaccinated
+person 0	 failed to infect person 96
+Person #96	 is now Vaccinated
+person 0	 failed to infect person 22
+Person #22	 is now Vaccinated
+person 0	 failed to infect person 34
+Person #34	 is now Vaccinated
+person 0	 failed to infect person 66
+Person #66	 is now Vaccinated
+person 0	 failed to infect person 59
+Person #59	 is now Vaccinated
+person 0	 failed to infect person 50
+Person #50	 is now Vaccinated
+person 0	 failed to infect person 27
+Person #27	 is now Vaccinated
+person 0	 failed to infect person 50
+Person #50	 is now Vaccinated
+person 0	 failed to infect person 92
+Person #92	 is now Vaccinated
+person 0	 failed to infect person 30
+Person #30	 is now Vaccinated
+person 0	 failed to infect person 30
+Person #30	 is now Vaccinated
+person 0	 failed to infect person 82
+Person #82	 is now Vaccinated
+person 0	 failed to infect person 28
+Person #28	 is now Vaccinated
+person 0	 failed to infect person 88
+Person #88	 is now Vaccinated
+person 0	 failed to infect person 36
+Person #36	 is now Vaccinated
+person 0	 failed to infect person 36
+Person #36	 is now Vaccinated
+person 0	 failed to infect person 80
+Person #80	 is now Vaccinated
+person 0	 failed to infect person 41
+Person #41	 is now Vaccinated
+person 0	 failed to infect person 53
+Person #53	 is now Vaccinated
+person 0	 failed to infect person 97
+Person #97	 is now Vaccinated
+person 0	 failed to infect person 74
+Person #74	 is now Vaccinated
+person 0	 failed to infect person 47
+Person #47	 is now Vaccinated
+person 0	 failed to infect person 89
+Person #89	 is now Vaccinated
+person 0	 failed to infect person 45
+Person #45	 is now Vaccinated
+person 0	 failed to infect person 59
+Person #59	 is now Vaccinated
+person 0	 failed to infect person 71
+Person #71	 is now Vaccinated
+person 0	 failed to infect person 67
+Person #67	 is now Vaccinated
+person 0	 failed to infect person 76
+Person #76	 is now Vaccinated
+person 0	 failed to infect person 86
+Person #86	 is now Vaccinated
+person 0	 failed to infect person 77
+Person #77	 is now Vaccinated
+person 0	 failed to infect person 35
+Person #35	 is now Vaccinated
+person 0	 failed to infect person 51
+Person #51	 is now Vaccinated
+person 0	 failed to infect person 48
+Person #48	 is now Vaccinated
+person 0	 failed to infect person 28
+Person #28	 is now Vaccinated
+person 0	 failed to infect person 63
+Person #63	 is now Vaccinated
+person 0	 failed to infect person 22
+Person #22	 is now Vaccinated
+person 0	 failed to infect person 95
+Person #95	 is now Vaccinated
+person 0	 failed to infect person 90
+Person #90	 is now Vaccinated
+person 0	 failed to infect person 49
+Person #49	 is now Vaccinated
+person 0	 failed to infect person 95
+Person #95	 is now Vaccinated
+person 0	 failed to infect person 48
+Person #48	 is now Vaccinated
+person 0	 failed to infect person 20
+Person #20	 is now Vaccinated
+person 0	 failed to infect person 29
+Person #29	 is now Vaccinated
+person 0	 failed to infect person 27
+Person #27	 is now Vaccinated
+person 0	 failed to infect person 49
+Person #49	 is now Vaccinated
+person 0	 failed to infect person 28
+Person #28	 is now Vaccinated
+person 0	 failed to infect person 24
+Person #24	 is now Vaccinated
+person 0	 failed to infect person 62
+Person #62	 is now Vaccinated
+person 0	 failed to infect person 29
+Person #29	 is now Vaccinated
+person 0	 failed to infect person 85
+Person #85	 is now Vaccinated
+person 0	 failed to infect person 50
+Person #50	 is now Vaccinated
+person 0	 failed to infect person 55
+Person #55	 is now Vaccinated
+person 0	 failed to infect person 82
+Person #82	 is now Vaccinated
+person 0	 failed to infect person 47
+Person #47	 is now Vaccinated
+0	 died from infection
+1	 lived from infection
+2	 lived from infection
+3	 died from infection
+4	 died from infection
+5	 died from infection
+6	 died from infection
+7	 died from infection
+8	 died from infection
+9	 died from infection
+10	 died from infection
+11	 lived from infection
+12	 died from infection
+13	 died from infection
+14	 died from infection
+15	 died from infection
+16	 lived from infection
+17	 lived from infection
+18	 died from infection
+19	 died from infection
+Time Step #1 is about to begin.
+person 96	 failed to infect person 83
+Person #83	 is now Vaccinated
+person 96	 failed to infect person 72
+Person #72	 is now Vaccinated
+person 96	 failed to infect person 32
+Person #32	 is now Vaccinated
+person 96	 failed to infect person 69
+Person #69	 is now Vaccinated
+person 96	 failed to infect person 38
+Person #38	 is now Vaccinated
+person 96	 failed to infect person 50
+Person #50	 is now Vaccinated
+person 96	 failed to infect person 74
+Person #74	 is now Vaccinated
+person 96	 failed to infect person 46
+Person #46	 is now Vaccinated
+person 96	 failed to infect person 24
+Person #24	 is now Vaccinated
+person 96	 failed to infect person 71
+Person #71	 is now Vaccinated
+person 96	 failed to infect person 85
+Person #85	 is now Vaccinated
+person 96	 failed to infect person 27
+Person #27	 is now Vaccinated
+person 96	 failed to infect person 21
+Person #21	 is now Vaccinated
+person 96	 failed to infect person 99
+Person #99	 is now Vaccinated
+person 96	 failed to infect person 84
+Person #84	 is now Vaccinated
+person 96	 failed to infect person 2
+Person #2	 is now Vaccinated
+person 96	 failed to infect person 26
+Person #26	 is now Vaccinated
+person 96	 failed to infect person 45
+Person #45	 is now Vaccinated
+person 96	 failed to infect person 36
+Person #36	 is now Vaccinated
+person 96	 failed to infect person 67
+Person #67	 is now Vaccinated
+person 96	 failed to infect person 77
+Person #77	 is now Vaccinated
+person 96	 failed to infect person 76
+Person #76	 is now Vaccinated
+person 96	 failed to infect person 42
+Person #42	 is now Vaccinated
+person 96	 failed to infect person 66
+Person #66	 is now Vaccinated
+person 96	 failed to infect person 22
+Person #22	 is now Vaccinated
+person 96	 failed to infect person 36
+Person #36	 is now Vaccinated
+person 96	 failed to infect person 63
+Person #63	 is now Vaccinated
+person 96	 failed to infect person 1
+Person #1	 is now Vaccinated
+person 96	 failed to infect person 64
+Person #64	 is now Vaccinated
+person 96	 failed to infect person 48
+Person #48	 is now Vaccinated
+person 96	 failed to infect person 73
+Person #73	 is now Vaccinated
+person 96	 failed to infect person 86
+Person #86	 is now Vaccinated
+person 96	 failed to infect person 77
+Person #77	 is now Vaccinated
+person 96	 failed to infect person 34
+Person #34	 is now Vaccinated
+person 96	 failed to infect person 39
+Person #39	 is now Vaccinated
+person 96	 failed to infect person 52
+Person #52	 is now Vaccinated
+person 96	 failed to infect person 42
+Person #42	 is now Vaccinated
+person 96	 failed to infect person 22
+Person #22	 is now Vaccinated
+person 96	 failed to infect person 89
+Person #89	 is now Vaccinated
+person 96	 failed to infect person 84
+Person #84	 is now Vaccinated
+person 96	 failed to infect person 22
+Person #22	 is now Vaccinated
+person 96	 failed to infect person 55
+Person #55	 is now Vaccinated
+person 96	 failed to infect person 22
+Person #22	 is now Vaccinated
+person 96	 failed to infect person 21
+Person #21	 is now Vaccinated
+person 96	 failed to infect person 89
+Person #89	 is now Vaccinated
+person 96	 failed to infect person 76
+Person #76	 is now Vaccinated
+person 96	 failed to infect person 79
+Person #79	 is now Vaccinated
+person 96	 failed to infect person 82
+Person #82	 is now Vaccinated
+person 96	 failed to infect person 35
+Person #35	 is now Vaccinated
+person 96	 failed to infect person 22
+Person #22	 is now Vaccinated
+person 96	 did infect person 80
+person 96	 failed to infect person 38
+Person #38	 is now Vaccinated
+person 96	 failed to infect person 23
+Person #23	 is now Vaccinated
+person 96	 did infect person 91
+person 96	 failed to infect person 45
+Person #45	 is now Vaccinated
+person 96	 failed to infect person 66
+Person #66	 is now Vaccinated
+person 96	 failed to infect person 30
+Person #30	 is now Vaccinated
+person 96	 failed to infect person 87
+Person #87	 is now Vaccinated
+person 96	 failed to infect person 46
+Person #46	 is now Vaccinated
+person 96	 failed to infect person 89
+Person #89	 is now Vaccinated
+person 96	 did infect person 91
+person 96	 failed to infect person 25
+Person #25	 is now Vaccinated
+person 96	 failed to infect person 68
+Person #68	 is now Vaccinated
+person 96	 failed to infect person 89
+Person #89	 is now Vaccinated
+person 96	 failed to infect person 87
+Person #87	 is now Vaccinated
+person 96	 failed to infect person 81
+Person #81	 is now Vaccinated
+person 96	 failed to infect person 55
+Person #55	 is now Vaccinated
+person 96	 failed to infect person 48
+Person #48	 is now Vaccinated
+person 96	 failed to infect person 41
+Person #41	 is now Vaccinated
+person 96	 failed to infect person 55
+Person #55	 is now Vaccinated
+person 96	 failed to infect person 45
+Person #45	 is now Vaccinated
+person 96	 failed to infect person 48
+Person #48	 is now Vaccinated
+person 96	 failed to infect person 65
+Person #65	 is now Vaccinated
+person 96	 failed to infect person 31
+Person #31	 is now Vaccinated
+person 96	 failed to infect person 98
+Person #98	 is now Vaccinated
+person 96	 failed to infect person 53
+Person #53	 is now Vaccinated
+person 96	 failed to infect person 24
+Person #24	 is now Vaccinated
+person 96	 failed to infect person 2
+Person #2	 is now Vaccinated
+person 96	 failed to infect person 73
+Person #73	 is now Vaccinated
+person 96	 failed to infect person 87
+Person #87	 is now Vaccinated
+person 96	 failed to infect person 27
+Person #27	 is now Vaccinated
+person 96	 failed to infect person 24
+Person #24	 is now Vaccinated
+person 96	 failed to infect person 83
+Person #83	 is now Vaccinated
+person 96	 failed to infect person 42
+Person #42	 is now Vaccinated
+person 96	 failed to infect person 79
+Person #79	 is now Vaccinated
+person 96	 failed to infect person 48
+Person #48	 is now Vaccinated
+person 96	 failed to infect person 31
+Person #31	 is now Vaccinated
+person 96	 failed to infect person 59
+Person #59	 is now Vaccinated
+person 96	 failed to infect person 23
+Person #23	 is now Vaccinated
+person 96	 failed to infect person 46
+Person #46	 is now Vaccinated
+person 96	 failed to infect person 62
+Person #62	 is now Vaccinated
+person 96	 failed to infect person 51
+Person #51	 is now Vaccinated
+person 96	 failed to infect person 35
+Person #35	 is now Vaccinated
+person 96	 failed to infect person 71
+Person #71	 is now Vaccinated
+person 96	 failed to infect person 84
+Person #84	 is now Vaccinated
+person 96	 failed to infect person 53
+Person #53	 is now Vaccinated
+person 96	 failed to infect person 99
+Person #99	 is now Vaccinated
+person 96	 failed to infect person 82
+Person #82	 is now Vaccinated
+person 96	 failed to infect person 2
+Person #2	 is now Vaccinated
+person 96	 failed to infect person 85
+Person #85	 is now Vaccinated
+person 96	 failed to infect person 53
+Person #53	 is now Vaccinated
+96	 died from infection
+Time Step #2 is about to begin.
+person 80	 failed to infect person 32
+Person #32	 is now Vaccinated
+person 80	 failed to infect person 48
+Person #48	 is now Vaccinated
+person 80	 failed to infect person 29
+Person #29	 is now Vaccinated
+person 80	 failed to infect person 28
+Person #28	 is now Vaccinated
+person 80	 failed to infect person 86
+Person #86	 is now Vaccinated
+person 80	 failed to infect person 34
+Person #34	 is now Vaccinated
+person 80	 failed to infect person 49
+Person #49	 is now Vaccinated
+person 80	 failed to infect person 51
+Person #51	 is now Vaccinated
+person 80	 failed to infect person 94
+Person #94	 is now Vaccinated
+person 80	 failed to infect person 41
+Person #41	 is now Vaccinated
+person 80	 failed to infect person 58
+Person #58	 is now Vaccinated
+person 80	 failed to infect person 41
+Person #41	 is now Vaccinated
+person 80	 failed to infect person 99
+Person #99	 is now Vaccinated
+person 80	 failed to infect person 48
+Person #48	 is now Vaccinated
+person 80	 failed to infect person 79
+Person #79	 is now Vaccinated
+person 80	 failed to infect person 77
+Person #77	 is now Vaccinated
+person 80	 failed to infect person 47
+Person #47	 is now Vaccinated
+person 80	 failed to infect person 21
+Person #21	 is now Vaccinated
+person 80	 failed to infect person 26
+Person #26	 is now Vaccinated
+person 80	 failed to infect person 99
+Person #99	 is now Vaccinated
+person 80	 failed to infect person 69
+Person #69	 is now Vaccinated
+person 80	 failed to infect person 50
+Person #50	 is now Vaccinated
+person 80	 failed to infect person 20
+Person #20	 is now Vaccinated
+person 80	 failed to infect person 1
+Person #1	 is now Vaccinated
+person 80	 failed to infect person 57
+Person #57	 is now Vaccinated
+person 80	 failed to infect person 31
+Person #31	 is now Vaccinated
+person 80	 failed to infect person 99
+Person #99	 is now Vaccinated
+person 80	 failed to infect person 48
+Person #48	 is now Vaccinated
+person 80	 failed to infect person 35
+Person #35	 is now Vaccinated
+person 80	 failed to infect person 71
+Person #71	 is now Vaccinated
+person 80	 failed to infect person 86
+Person #86	 is now Vaccinated
+person 80	 failed to infect person 69
+Person #69	 is now Vaccinated
+person 80	 failed to infect person 87
+Person #87	 is now Vaccinated
+person 80	 failed to infect person 2
+Person #2	 is now Vaccinated
+person 80	 failed to infect person 29
+Person #29	 is now Vaccinated
+person 80	 failed to infect person 24
+Person #24	 is now Vaccinated
+person 80	 failed to infect person 34
+Person #34	 is now Vaccinated
+person 80	 failed to infect person 85
+Person #85	 is now Vaccinated
+person 80	 failed to infect person 17
+Person #17	 is now Vaccinated
+person 80	 failed to infect person 62
+Person #62	 is now Vaccinated
+person 80	 failed to infect person 90
+Person #90	 is now Vaccinated
+person 80	 failed to infect person 86
+Person #86	 is now Vaccinated
+person 80	 failed to infect person 33
+Person #33	 is now Vaccinated
+person 80	 failed to infect person 70
+Person #70	 is now Vaccinated
+person 80	 failed to infect person 31
+Person #31	 is now Vaccinated
+person 80	 failed to infect person 20
+Person #20	 is now Vaccinated
+person 80	 failed to infect person 54
+Person #54	 is now Vaccinated
+person 80	 failed to infect person 61
+Person #61	 is now Vaccinated
+person 80	 failed to infect person 20
+Person #20	 is now Vaccinated
+person 80	 failed to infect person 60
+Person #60	 is now Vaccinated
+person 80	 failed to infect person 41
+Person #41	 is now Vaccinated
+person 80	 failed to infect person 46
+Person #46	 is now Vaccinated
+person 80	 failed to infect person 28
+Person #28	 is now Vaccinated
+person 80	 failed to infect person 60
+Person #60	 is now Vaccinated
+person 80	 failed to infect person 87
+Person #87	 is now Vaccinated
+person 80	 failed to infect person 67
+Person #67	 is now Vaccinated
+person 80	 failed to infect person 97
+Person #97	 is now Vaccinated
+person 80	 failed to infect person 34
+Person #34	 is now Vaccinated
+person 80	 failed to infect person 45
+Person #45	 is now Vaccinated
+person 80	 failed to infect person 35
+Person #35	 is now Vaccinated
+person 80	 failed to infect person 37
+Person #37	 is now Vaccinated
+person 80	 failed to infect person 67
+Person #67	 is now Vaccinated
+person 80	 failed to infect person 16
+Person #16	 is now Vaccinated
+person 80	 failed to infect person 37
+Person #37	 is now Vaccinated
+person 80	 failed to infect person 57
+Person #57	 is now Vaccinated
+person 80	 failed to infect person 67
+Person #67	 is now Vaccinated
+person 80	 failed to infect person 46
+Person #46	 is now Vaccinated
+person 80	 failed to infect person 49
+Person #49	 is now Vaccinated
+person 80	 failed to infect person 35
+Person #35	 is now Vaccinated
+person 80	 failed to infect person 28
+Person #28	 is now Vaccinated
+person 80	 failed to infect person 63
+Person #63	 is now Vaccinated
+person 80	 failed to infect person 17
+Person #17	 is now Vaccinated
+person 80	 failed to infect person 75
+Person #75	 is now Vaccinated
+person 80	 failed to infect person 43
+Person #43	 is now Vaccinated
+person 80	 failed to infect person 40
+Person #40	 is now Vaccinated
+person 80	 failed to infect person 73
+Person #73	 is now Vaccinated
+person 80	 did infect person 44
+person 80	 failed to infect person 39
+Person #39	 is now Vaccinated
+person 80	 failed to infect person 66
+Person #66	 is now Vaccinated
+person 80	 failed to infect person 57
+Person #57	 is now Vaccinated
+person 80	 failed to infect person 50
+Person #50	 is now Vaccinated
+person 80	 failed to infect person 23
+Person #23	 is now Vaccinated
+person 80	 failed to infect person 50
+Person #50	 is now Vaccinated
+person 80	 failed to infect person 59
+Person #59	 is now Vaccinated
+person 80	 failed to infect person 81
+Person #81	 is now Vaccinated
+person 80	 failed to infect person 66
+Person #66	 is now Vaccinated
+person 80	 failed to infect person 84
+Person #84	 is now Vaccinated
+person 80	 failed to infect person 57
+Person #57	 is now Vaccinated
+person 80	 failed to infect person 16
+Person #16	 is now Vaccinated
+person 80	 failed to infect person 29
+Person #29	 is now Vaccinated
+person 80	 failed to infect person 48
+Person #48	 is now Vaccinated
+person 80	 failed to infect person 37
+Person #37	 is now Vaccinated
+person 80	 failed to infect person 90
+Person #90	 is now Vaccinated
+person 80	 failed to infect person 48
+Person #48	 is now Vaccinated
+person 80	 failed to infect person 17
+Person #17	 is now Vaccinated
+person 80	 failed to infect person 28
+Person #28	 is now Vaccinated
+person 80	 failed to infect person 93
+Person #93	 is now Vaccinated
+person 80	 failed to infect person 70
+Person #70	 is now Vaccinated
+person 80	 failed to infect person 59
+Person #59	 is now Vaccinated
+person 80	 failed to infect person 55
+Person #55	 is now Vaccinated
+person 80	 failed to infect person 70
+Person #70	 is now Vaccinated
+80	 died from infection
+91	 died from infection
+Time Step #3 is about to begin.
+person 44	 failed to infect person 65
+Person #65	 is now Vaccinated
+person 44	 failed to infect person 90
+Person #90	 is now Vaccinated
+person 44	 failed to infect person 39
+Person #39	 is now Vaccinated
+person 44	 failed to infect person 48
+Person #48	 is now Vaccinated
+person 44	 failed to infect person 20
+Person #20	 is now Vaccinated
+person 44	 failed to infect person 71
+Person #71	 is now Vaccinated
+person 44	 failed to infect person 1
+Person #1	 is now Vaccinated
+person 44	 failed to infect person 83
+Person #83	 is now Vaccinated
+person 44	 failed to infect person 85
+Person #85	 is now Vaccinated
+person 44	 failed to infect person 40
+Person #40	 is now Vaccinated
+person 44	 failed to infect person 62
+Person #62	 is now Vaccinated
+person 44	 failed to infect person 71
+Person #71	 is now Vaccinated
+person 44	 failed to infect person 23
+Person #23	 is now Vaccinated
+person 44	 failed to infect person 58
+Person #58	 is now Vaccinated
+person 44	 failed to infect person 98
+Person #98	 is now Vaccinated
+person 44	 failed to infect person 56
+Person #56	 is now Vaccinated
+person 44	 failed to infect person 30
+Person #30	 is now Vaccinated
+person 44	 failed to infect person 54
+Person #54	 is now Vaccinated
+person 44	 failed to infect person 81
+Person #81	 is now Vaccinated
+person 44	 failed to infect person 55
+Person #55	 is now Vaccinated
+person 44	 failed to infect person 68
+Person #68	 is now Vaccinated
+person 44	 failed to infect person 57
+Person #57	 is now Vaccinated
+person 44	 failed to infect person 67
+Person #67	 is now Vaccinated
+person 44	 failed to infect person 53
+Person #53	 is now Vaccinated
+person 44	 failed to infect person 39
+Person #39	 is now Vaccinated
+person 44	 failed to infect person 69
+Person #69	 is now Vaccinated
+person 44	 failed to infect person 64
+Person #64	 is now Vaccinated
+person 44	 failed to infect person 37
+Person #37	 is now Vaccinated
+person 44	 failed to infect person 97
+Person #97	 is now Vaccinated
+person 44	 failed to infect person 89
+Person #89	 is now Vaccinated
+person 44	 failed to infect person 54
+Person #54	 is now Vaccinated
+person 44	 failed to infect person 67
+Person #67	 is now Vaccinated
+person 44	 failed to infect person 87
+Person #87	 is now Vaccinated
+person 44	 failed to infect person 1
+Person #1	 is now Vaccinated
+person 44	 failed to infect person 54
+Person #54	 is now Vaccinated
+person 44	 failed to infect person 52
+Person #52	 is now Vaccinated
+person 44	 failed to infect person 41
+Person #41	 is now Vaccinated
+person 44	 failed to infect person 71
+Person #71	 is now Vaccinated
+person 44	 failed to infect person 92
+Person #92	 is now Vaccinated
+person 44	 failed to infect person 95
+Person #95	 is now Vaccinated
+person 44	 failed to infect person 57
+Person #57	 is now Vaccinated
+person 44	 failed to infect person 75
+Person #75	 is now Vaccinated
+person 44	 failed to infect person 72
+Person #72	 is now Vaccinated
+person 44	 failed to infect person 72
+Person #72	 is now Vaccinated
+person 44	 failed to infect person 42
+Person #42	 is now Vaccinated
+person 44	 failed to infect person 82
+Person #82	 is now Vaccinated
+person 44	 failed to infect person 76
+Person #76	 is now Vaccinated
+person 44	 failed to infect person 36
+Person #36	 is now Vaccinated
+person 44	 failed to infect person 25
+Person #25	 is now Vaccinated
+person 44	 failed to infect person 52
+Person #52	 is now Vaccinated
+person 44	 failed to infect person 82
+Person #82	 is now Vaccinated
+person 44	 failed to infect person 98
+Person #98	 is now Vaccinated
+person 44	 failed to infect person 58
+Person #58	 is now Vaccinated
+person 44	 failed to infect person 26
+Person #26	 is now Vaccinated
+person 44	 failed to infect person 46
+Person #46	 is now Vaccinated
+person 44	 failed to infect person 55
+Person #55	 is now Vaccinated
+person 44	 failed to infect person 43
+Person #43	 is now Vaccinated
+person 44	 failed to infect person 40
+Person #40	 is now Vaccinated
+person 44	 failed to infect person 33
+Person #33	 is now Vaccinated
+person 44	 failed to infect person 16
+Person #16	 is now Vaccinated
+person 44	 failed to infect person 20
+Person #20	 is now Vaccinated
+person 44	 failed to infect person 47
+Person #47	 is now Vaccinated
+person 44	 failed to infect person 76
+Person #76	 is now Vaccinated
+person 44	 failed to infect person 97
+Person #97	 is now Vaccinated
+person 44	 failed to infect person 24
+Person #24	 is now Vaccinated
+person 44	 failed to infect person 74
+Person #74	 is now Vaccinated
+person 44	 failed to infect person 69
+Person #69	 is now Vaccinated
+person 44	 failed to infect person 99
+Person #99	 is now Vaccinated
+person 44	 failed to infect person 90
+Person #90	 is now Vaccinated
+person 44	 failed to infect person 39
+Person #39	 is now Vaccinated
+person 44	 failed to infect person 65
+Person #65	 is now Vaccinated
+person 44	 failed to infect person 79
+Person #79	 is now Vaccinated
+person 44	 failed to infect person 67
+Person #67	 is now Vaccinated
+person 44	 failed to infect person 47
+Person #47	 is now Vaccinated
+person 44	 failed to infect person 33
+Person #33	 is now Vaccinated
+person 44	 failed to infect person 1
+Person #1	 is now Vaccinated
+person 44	 failed to infect person 28
+Person #28	 is now Vaccinated
+person 44	 failed to infect person 70
+Person #70	 is now Vaccinated
+person 44	 failed to infect person 43
+Person #43	 is now Vaccinated
+person 44	 failed to infect person 37
+Person #37	 is now Vaccinated
+person 44	 failed to infect person 83
+Person #83	 is now Vaccinated
+person 44	 failed to infect person 75
+Person #75	 is now Vaccinated
+person 44	 failed to infect person 21
+Person #21	 is now Vaccinated
+person 44	 failed to infect person 88
+Person #88	 is now Vaccinated
+person 44	 failed to infect person 47
+Person #47	 is now Vaccinated
+person 44	 failed to infect person 30
+Person #30	 is now Vaccinated
+person 44	 failed to infect person 74
+Person #74	 is now Vaccinated
+person 44	 failed to infect person 32
+Person #32	 is now Vaccinated
+person 44	 failed to infect person 75
+Person #75	 is now Vaccinated
+person 44	 failed to infect person 84
+Person #84	 is now Vaccinated
+person 44	 failed to infect person 88
+Person #88	 is now Vaccinated
+person 44	 failed to infect person 94
+Person #94	 is now Vaccinated
+person 44	 failed to infect person 56
+Person #56	 is now Vaccinated
+person 44	 failed to infect person 72
+Person #72	 is now Vaccinated
+person 44	 failed to infect person 97
+Person #97	 is now Vaccinated
+person 44	 failed to infect person 81
+Person #81	 is now Vaccinated
+person 44	 failed to infect person 70
+Person #70	 is now Vaccinated
+person 44	 failed to infect person 87
+Person #87	 is now Vaccinated
+person 44	 failed to infect person 73
+Person #73	 is now Vaccinated
+person 44	 failed to infect person 76
+Person #76	 is now Vaccinated
+person 44	 failed to infect person 73
+Person #73	 is now Vaccinated
+44	 died from infection
+Time Step #4 is about to begin.
+Time Step #5 is about to begin.
+Time Step #6 is about to begin.

@@ -43,18 +43,17 @@ class Person(object):
         self.infection = infection #virus object
 
 
-    def did_survive_infection(self):
+    def did_survive_infection(self, mortality_rate):
         # TODO:  Finish this method. Follow the instructions in the class documentation
         # for did_resolve_infection. If person dies, set is_alive to False and return False.
         # If person lives, set is_vaccinated = True, infection = None, return True.
-        if self.infection != None:
-            generator = random.uniform(0, 1)
-        if generator < self.infection.mortality_rate:
-            self.is_alive = False
-            # print('person died')
-            return False
-        elif generator > self.infection.mortality_rate:
-            # print('person got vaccinated')
-            self.is_vaccinated = True
-            self.infection = None
-            return True
+        if self.infection is not None:
+            if random.random() <= mortality_rate:
+                self.is_alive = False
+                # print('person died')
+                return False
+            else:
+                # print('person got vaccinated')
+                self.is_vaccinated = True
+                self.infection = None
+                return True
